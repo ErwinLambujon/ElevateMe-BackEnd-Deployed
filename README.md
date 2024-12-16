@@ -1,4 +1,4 @@
-# BASE PATH: localhost:8000/api/
+# BASE PATH: https://babyjoy456.pythonanywhere.com/api
 
 ### Endpoints for User.
 - GET `/user/` - This endpoint allows creating and querying a user.
